@@ -2,7 +2,7 @@
   "name": "jv-nextjs-starter",
   "version": "0.1.0",
   "description": "The Next.js starter I use to kick things off",
-  "main": "index.js",
+  "private": "true",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
