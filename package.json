@@ -1,0 +1,24 @@
+{
+  "name": "jv-nextjs-starter",
+  "version": "0.1.0",
+  "description": "The Next.js starter I use to kick things off",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raúl R. Pearson",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.4",
+    "typescript": "^4.2.4"
+  }
+}
