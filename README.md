@@ -13,3 +13,15 @@ Some of the features I'm considering:
 - Tailwind
 - ESLint, Prettier, Husky and Jest
 - Opinions in file hierarchy/structure
+
+## Usage
+
+You can use this starter with
+[create-next-app](https://nextjs.org/docs/api-reference/create-next-app):
+
+```shell
+npx create-next-app -e https://github.com/raulrpearson/jv-nextjs-starter <folder_for_your_project>
+```
+
+After that, you'll probably want to edit your `package.json` fields to reflect
+your project data.
